@@ -22,3 +22,4 @@ type ScheduleResponse struct{
 	StationName string `json:"station"`
 	Time string `json:"time"`
 }
+
